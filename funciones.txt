@@ -1,0 +1,23 @@
+len
+print
+type
+abs
+open
+input
+
+int
+float
+bool
+str
+
+list
+tuple
+set
+dict
+
+range
+next (permite leer y avanzar en un iterador)
+round (sirve para redondear decimales)
+
+issubclass
+isinstance
